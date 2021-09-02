@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./estilos.css">
+    <title>gatitos horoscopos</title>
+</head>
+<body>
+    <h4>99% comprobado</h4>
+
+    <br>
+    
+    <h1> Que gatito del horoscopo sos ?</h1>
+
+
+<form action="">
+
+    <br> 
+    <p> 
+     <h4>  Cuántos gatitos tenés? </h4>
+    </p>
+
+    <input type="radio" id="cat" name="opciones" value="html"
+    <label for="opcion0">0<cat> </label>
+    <br>
+    <input type="radio" id="cat" name="opciones" value="html"
+    <label for="opcion1"><cat>🐱</label>
+    <br>
+    <input type="radio" id="cat" name="opciones" value="html"
+    <label for="opcion2"><cat>🐱🐱</label>
+    <br>
+    <input type="radio" id="cat" name="opciones" value="html"
+    <label for="opcion3"><cat>🐱🐱🐱</label>
+    <br>
+    <input type="radio" id="cat" name="opciones" value="html"
+    <label for="opcion4"><cat>🐱más...</label>
+
+   <br>
+   <br>
+     
+<p>
+    <h3> Registrate en gatitos del horoscopos </h3>
+</p>
+
+    <p>
+        <input type="text" name="nombre" placeholder="ingrese nombre"> 
+        <input type="text" name="apellido" placeholder="ingrese apellido">
+    </p>
+
+    <p>
+        <input type="password" placeholder="ingrese contraseña" >
+        <input type="email" placeholder="ingrese email" >
+    </p>
+
+    <p>
+        <input type="password" name="repass" placeholder="re-ingrese contraseña">
+
+             Signo:
+             <select name="horoscopos">
+                <option value="Capricornio"> Capricornio </option>
+                <option value="Acuario"> Acuario </option>
+                <option value="Pscis"> Pscis </option>
+                <option value="Aries"> Aries </option>
+                <option value="Tauro"> Tauro </option>
+                <option value="Geminis"> Geminis </option>
+                <option value="Cancer"> Cancer </option>
+                <option value="Leo"> Leo </option>
+                <option value="Virgo"> Virgo </option>
+                <option value="Libra"> Libra </option>
+                <option value="Escorpio"> Escorpio </option>
+                <option value="Sagitario"> Sagitario </option>
+                
+                </select> 
+    
+        </p>
+    
+    <p>
+        <button name="enviar">Enviar</button> .*:･˓˓ก₍⸍⸌̣ʷ̣̫⸍̣⸌₎ค˒˒･:*.
+    </p>
+
+    <br> <br>
+    
+     <p>
+         <h4>Recibir carta astral de gatitos? <input type="checkbox" name="recordar"> </h4> 
+         <h4>Recibir novedades? <input type="checkbox" name="recordar"></h4>
+    </p>
+    
+        (˃ᆺ˂) Pais:
+         <select name="Pais">
+            <option value="ar"> Argentina </option>
+            <option value="bo"> Bolivia </option>
+            <option value="br"> Brazil </option>
+            <option value="ch"> Chile </option>
+            <option value="co"> Colombia </option>
+            <option value="cor"> Costa Rica </option>
+            <option value="cu"> Cuba </option>
+            <option value="ec"> Ecuador </option>
+            <option value="sv"> El salvador </option>
+            <option value="gf"> Guayana Francesa </option>
+            <option value="gd"> Granada </option>
+            <option value="gt"> Guatemala </option>
+            <option value="gy"> Guayana </option>
+            <option value="ht"> Haiti </option>
+            <option value="hn"> Honduras </option>
+            <option value="jm"> Jamaica </option>
+            <option value="mx"> México </option>
+            <option value="ni"> Nicaragua </option>
+            <option value="py"> Paraguay </option>
+            <option value="pa"> Panama </option>
+            <option value="pe"> Peru </option>
+            <option value="cr"> Puerto Rico </option>
+            <option value="do"> República Dominicana </option>
+            <option value="sr"> Surinam </option>
+            <option value="uy"> Uruguay </option>
+            <option value="ve"> Venezuela </option>
+            
+            </select> 
+
+    </p> 
+
+
+    <p> 
+        <label for="fecha"> (˃ᆺ˂) Cumple:</label>
+        <input type="date" id="fecha">
+    </p>
+
+    <br> <br>
+
+    <p> 
+        <h4> contanos algo o/y preguntas ( ⓛ ω ⓛ *) </h4>
+    </p> 
+
+    <p>
+        <textarea name="gatitos" id="" cols="30" rows="10" placeholder="ㅇㅅㅇ" > </textarea>
+    </p>
+
+
+    <p>
+        <button name="enviar">Enviar</button> .*:･˓˓ก₍⸍⸌̣ʷ̣̫⸍̣⸌₎ค˒˒･:*.
+    </p>
+
+
+
+
+</form>
+
+
+</body>
+</html>
